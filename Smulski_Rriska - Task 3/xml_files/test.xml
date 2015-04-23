@@ -1,0 +1,11 @@
+<game>
+	<id>1</id>
+	<name>Mass Effect</name>
+	<price>60</price>
+	<agecategory_id>1</agecategory_id>
+	<producer_id>2</producer_id>
+	<genre_id>1</genre_id>
+	<platform_id>1</platform_id>
+	<order_id>1</order_id>
+	<!--<cover_id></cover_id>-->
+</game>
