@@ -1,7 +1,7 @@
 <game>
 	<id>1</id>
-	<name>Mass Effect</name>
-	<price>60</price>
+	<name>Titanfall</name>
+	<price>80</price>
 	<agecategory_id>1</agecategory_id>
 	<producer_id>2</producer_id>
 	<genre_id>1</genre_id>
@@ -11,8 +11,8 @@
 </game>
 <game>
 	<id>2</id>
-	<name>Mass Effect 2</name>
-	<price>120</price>
+	<name>Bioshock Infinite</name>
+	<price>134</price>
 	<agecategory_id>2</agecategory_id>
 	<producer_id>3</producer_id>
 	<genre_id>2</genre_id>
