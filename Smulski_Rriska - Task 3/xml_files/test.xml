@@ -9,3 +9,14 @@
 	<order_id>1</order_id>
 	<!--<cover_id></cover_id>-->
 </game>
+<game>
+	<id>2</id>
+	<name>Mass Effect 2</name>
+	<price>120</price>
+	<agecategory_id>2</agecategory_id>
+	<producer_id>3</producer_id>
+	<genre_id>2</genre_id>
+	<platform_id>2</platform_id>
+	<order_id>2</order_id>
+	<!--<cover_id></cover_id>-->
+</game>
